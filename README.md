@@ -1,6 +1,6 @@
 # 🛠️ Network Labs & Packet Tracer Projects
 
-This repository contains hands-on networking labs completed using Cisco Packet Tracer and Wireshark as part of my cybersecurity course.
+This repository contains hands-on networking labs completed using Cisco Packet Tracer and Wireshark as part of my cybersecurity course
 
 ---
 
